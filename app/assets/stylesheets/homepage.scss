@@ -1,3 +1,22 @@
 // Place all the styles related to the Homepage controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: teal;
+}
+
+body {
+  max-height: 100vh;
+}
+
+.greeting {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 80px;
+  height: 100vh;
+}
