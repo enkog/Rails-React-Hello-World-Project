@@ -17,8 +17,8 @@ Initialize your project with Git.
 
 ## Built With
 
-- Ruby v2.7.0
-- Ruby on Rails 6.0.3
+- Ruby
+- Ruby on Rails
 - React
 - Redux
 - rubocop
